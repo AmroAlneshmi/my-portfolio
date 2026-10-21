@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@theme {
+  --font-badeen: "Badeen Display", sans-serif;
+  --font-kufam: "Kufam", sans-serif;
+}
+
+html {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  direction: rtl;
+}
