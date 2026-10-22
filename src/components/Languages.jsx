@@ -1,4 +1,3 @@
-import React from 'react'
 import { languages } from '../assets/data'
 
 function Languages() {

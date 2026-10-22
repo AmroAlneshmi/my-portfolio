@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import { skills } from "../assets/data";
 
 const filters = [
@@ -102,4 +102,4 @@ function Skills() {
   );
 }
 
-export default Skills;
+export default Skills;
