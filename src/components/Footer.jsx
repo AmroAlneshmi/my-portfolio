@@ -38,15 +38,6 @@ function Footer() {
               >
                 +966 57 677 0740
               </a>
-              <a
-                href="https://wa.me/967775597883"
-                target="_blank"
-                rel="noopener noreferrer"
-                dir="ltr"
-                className="block hover:opacity-70 transition-opacity"
-              >
-                +967 775 597 883
-              </a>
             </div>
           </div>
         </div>
